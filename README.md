@@ -4,25 +4,21 @@
   </a>
 </div>
 
-# Giovanna Duccini
+## Giovanna Duccini
 
 **Desenvolvedora _____**
 
-<p align="center">Meu nome é Giovanna e sou estudante de Técnico em Desenvolvimento de Sistemas junto com o Ensino Médio.
+Meu nome é Giovanna e sou estudante de Técnico em Desenvolvimento de Sistemas junto com o Ensino Médio.
 Tenho interesse em tecnologia e estou construindo uma base sólida em programação, lógica computacional e fundamentos de sistemas, com foco futuro em Inteligência Artificial.
-
-#
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
+ 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gd.techprofile@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/giovanna-duccini-martins)
 
+#
 
-### 🤖 Linguagens e Tecnologias
-
+<h3 align="left">Linguagens e Tecnologias</h3>
 <img 
     align = "left"
     alt = "Python"
@@ -30,8 +26,7 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
     width = "30px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-          
+/>       
 <img 
     align = "left"
     alt = "HTML"
@@ -40,29 +35,26 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-
 <img 
     align = "left"
-    alt = "HTML"
-    title = "HTML"
+    alt = "CSS"
+    title = "CSS"
     width = "30px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
-
 <img 
     align = "left"
-    alt = "HTML"
-    title = "HTML"
+    alt = "FLASK"
+    title = "FLASK"
     width = "30px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
 />
-
 <img 
     align = "left"
-    alt = "HTML"
-    title = "HTML"
+    alt = "SQL"
+    title = "SQL"
     width = "30px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
@@ -76,13 +68,6 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gdTech1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #
-
-### No que estou trabalhando atualmente
-Atualmente estou estudando e praticando:
-- Estudando Python para desenvolvimento e automação  
-- Realizando cursos introdutórios de Inteligência Artificial  
-
-Busco aplicar esses conhecimentos em pequenos projetos para evoluir de forma consistente.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake-dark.svg">
