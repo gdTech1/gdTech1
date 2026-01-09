@@ -17,6 +17,7 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
 #
 
 ### Linguagens e Tecnologias
+
 <img 
     align = "left"
     alt = "Python"
@@ -24,7 +25,8 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
     width = "30px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>       
+/>
+
 <img 
     align = "left"
     alt = "HTML"
@@ -33,6 +35,7 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
+
 <img 
     align = "left"
     alt = "CSS"
@@ -41,6 +44,7 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+
 <img 
     align = "left"
     alt = "FLASK"
@@ -49,6 +53,7 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
 />
+
 <img 
     align = "left"
     alt = "SQL"
@@ -57,6 +62,7 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
 />
+
 <br/>
 <br/>
 
