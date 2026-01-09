@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -11,7 +11,9 @@
 <p align="center">Meu nome é Giovanna e sou estudante de Técnico em Desenvolvimento de Sistemas junto com o Ensino Médio.
 Tenho interesse em tecnologia e estou construindo uma base sólida em programação, lógica computacional e fundamentos de sistemas, com foco futuro em Inteligência Artificial.
 
----
+#
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -68,6 +70,19 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
 <br/>
 <br/>
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gdTech1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gdTech1&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gdTech1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+#
+
+### No que estou trabalhando atualmente
+Atualmente estou estudando e praticando:
+- Estudando Python para desenvolvimento e automação  
+- Realizando cursos introdutórios de Inteligência Artificial  
+
+Busco aplicar esses conhecimentos em pequenos projetos para evoluir de forma consistente.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake-dark.svg">
