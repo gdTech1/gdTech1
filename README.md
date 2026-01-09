@@ -16,7 +16,7 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
 
 #
 
-<h3 align="left">Linguagens e Tecnologias</h3>
+### Linguagens e Tecnologias
 <img 
     align = "left"
     alt = "Python"
