@@ -69,7 +69,6 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gdTech1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> 
 ![](https://nirzak-streak-stats.vercel.app/?user=gdTech1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gdTech1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #
 
