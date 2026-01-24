@@ -4,7 +4,7 @@
   </a>
 </div>
 
-**Desenvolvedora**
+# Desenvolvedora
 
 Meu nome é Giovanna e sou estudante de Técnico em Desenvolvimento de Sistemas junto com o Ensino Médio.
 Tenho interesse em tecnologia e estou construindo uma base sólida em programação, lógica computacional e fundamentos de sistemas, com foco futuro em Inteligência Artificial.
