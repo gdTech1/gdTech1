@@ -55,9 +55,3 @@ Construindo minha jornada na tecnologia
 <picture align="center">
   <img align="center" src="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-## Filosofia
-
-> "Aprender hoje, para criar inteligências que pensem amanhã."
