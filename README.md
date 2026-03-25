@@ -4,13 +4,12 @@
 
 
 ## Desenvolvedora
-
 Oii! Eu sou a **Giovanna**  
 Estudante de Desenvolvimento de Sistemas  
 Focada em Inteligência Artificial  
 Construindo minha jornada na tecnologia  
 
----
+
 
 ## Minha vibe
 
@@ -19,14 +18,12 @@ Construindo minha jornada na tecnologia
 ![Status](https://img.shields.io/badge/Status-Student-FFB6C1?style=for-the-badge&logoColor=000000)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-C084FC?style=for-the-badge&logoColor=000000)
 
----
 
 ## Conecte-se comigo
 
 [![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:gd.techprofile@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://www.linkedin.com/in/giovanna-duccini-martins)
 
----
 
 ## Tecnologias
 
@@ -37,7 +34,6 @@ Construindo minha jornada na tecnologia
 ![Flask](https://img.shields.io/badge/Flask-F1F5F9?style=for-the-badge&logo=flask&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-FEE2E2?style=for-the-badge&logo=git&logoColor=000)
 
----
 
 ## Streak
 
@@ -47,7 +43,6 @@ Construindo minha jornada na tecnologia
 
 </div>
 
----
 
 ## Contribuições
 
