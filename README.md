@@ -67,7 +67,7 @@ Tenho interesse em tecnologia e estou construindo uma base sólida em programaç
 <br/>
 
 ### 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=gdTech1&theme=tokyonight&hide_border=false)<br/>
+<img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=FFFFFF&stroke=DDDDDD&ring=AAAAAA&fire=CCCCCC&currStreakNum=222222&sideNums=444444&currStreakLabel=666666&sideLabels=666666&dates=999999"/>
 
 #
 
