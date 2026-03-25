@@ -3,7 +3,7 @@
 </div>
 
 
-## Sobre mim
+## Desenvolvedora
 
 Oii! Eu sou a **Giovanna**  
 Estudante de Desenvolvimento de Sistemas  
