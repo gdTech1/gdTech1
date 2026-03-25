@@ -1,79 +1,63 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perifl+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+<img src="https://i.pinimg.com/originals/7d/e3/3f/7de33f34334a085e4bc79d72ec714489.gif" width="400px">
 </div>
 
-# Desenvolvedora
+---
 
-Meu nome é Giovanna e sou estudante de Técnico em Desenvolvimento de Sistemas junto com o Ensino Médio.
-Tenho interesse em tecnologia e estou construindo uma base sólida em programação, lógica computacional e fundamentos de sistemas, com foco futuro em Inteligência Artificial.
- 
-<h3 align="left">Connect with me!</h3>
+## Sobre mim
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gd.techprofile@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/giovanna-duccini-martins)
+Oii! Eu sou a **Giovanna**  
+Estudante de Desenvolvimento de Sistemas  
+Focada em Inteligência Artificial  
+Construindo minha jornada na tecnologia  
 
-#
+---
 
-### Linguagens e Tecnologias
+## Minha vibe
 
-<img 
-    align = "left"
-    alt = "Python"
-    title = "Python"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+![Focus](https://img.shields.io/badge/Focus-AI-E9D5FF?style=for-the-badge&logoColor=000000)
+![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20APIs-D8B4FE?style=for-the-badge&logoColor=000000)
+![Status](https://img.shields.io/badge/Status-Student-FFB6C1?style=for-the-badge&logoColor=000000)
+![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-C084FC?style=for-the-badge&logoColor=000000)
 
-<img 
-    align = "left"
-    alt = "HTML"
-    title = "HTML"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+---
 
-<img 
-    align = "left"
-    alt = "CSS"
-    title = "CSS"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+## Conecte-se comigo
 
-<img 
-    align = "left"
-    alt = "FLASK"
-    title = "FLASK"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
-/>
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:gd.techprofile@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://www.linkedin.com/in/giovanna-duccini-martins)
 
-<img 
-    align = "left"
-    alt = "SQL"
-    title = "SQL"
-    width = "30px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
-/>
+---
 
-<br/>
-<br/>
+## Tecnologias
 
-### 📊 GitHub Stats:
+![Python](https://img.shields.io/badge/Python-F3E8FF?style=for-the-badge&logo=python&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FEF9C3?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-FEE2E2?style=for-the-badge&logo=html5&logoColor=000)
+![CSS](https://img.shields.io/badge/CSS-E0F2FE?style=for-the-badge&logo=css3&logoColor=000)
+![Flask](https://img.shields.io/badge/Flask-F1F5F9?style=for-the-badge&logo=flask&logoColor=000)
+![Git](https://img.shields.io/badge/Git-FEE2E2?style=for-the-badge&logo=git&logoColor=000)
+
+---
+
+## Streak
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=FFFFFF&stroke=DDDDDD&ring=AAAAAA&fire=CCCCCC&currStreakNum=222222&sideNums=444444&currStreakLabel=666666&sideLabels=666666&dates=999999"/>
 
-#
+</div>
+
+---
+
+## Contribuições
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake.svg">
+  <img align="center" src="https://raw.githubusercontent.com/gdTech1/gdTech1/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+## Filosofia
+
+> "Aprender hoje, para criar inteligências que pensem amanhã."
