@@ -28,7 +28,6 @@ Construindo minha jornada na tecnologia
 ## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-E9D5FF?style=for-the-badge&logo=python&logoColor=1F1F1F)
-![JavaScript](https://img.shields.io/badge/JavaScript-FEF3C7?style=for-the-badge&logo=javascript&logoColor=1F1F1F)
 ![HTML](https://img.shields.io/badge/HTML-FEE2E2?style=for-the-badge&logo=html5&logoColor=1F1F1F)
 ![CSS](https://img.shields.io/badge/CSS-DBEAFE?style=for-the-badge&logo=css3&logoColor=1F1F1F)
 ![Flask](https://img.shields.io/badge/Flask-F3F4F6?style=for-the-badge&logo=flask&logoColor=1F1F1F)
