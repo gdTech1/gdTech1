@@ -42,3 +42,8 @@ Construindo minha jornada na tecnologia
 
 </div>
 
+<div align="center">
+
+<img src="https://i.pinimg.com/736x/43/8a/5f/438a5f26d882021cb6e20d6b79e157b8.jpg" width="100px"/>
+
+</div>
