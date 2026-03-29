@@ -41,9 +41,3 @@ Construindo minha jornada na tecnologia
 <img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=E9D5FF&ring=A78BFA&fire=F472B6&currStreakNum=F472B6&sideNums=A78BFA&currStreakLabel=F472B6&sideLabels=A78BFA&dates=9CA3AF"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://i.pinimg.com/736x/43/8a/5f/438a5f26d882021cb6e20d6b79e157b8.jpg" width="100px"/>
-
-</div>
