@@ -8,8 +8,9 @@ width="400px"
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C9A227&center=true&vCenter=true&width=500&lines=Bem-vinde+ao+meu+pequeno+mundo+~">
 </div>
-## Desenvolvedora
 
+
+## Desenvolvedora
 Oii! Eu sou a **Giovanna**  
 Estudante de Desenvolvimento de Sistemas  
 Focada em Inteligência Artificial  
