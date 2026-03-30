@@ -1,9 +1,13 @@
 <div align="center">
-
-<img src="https://i.pinimg.com/1200x/d8/8a/30/d88a30ea20d412bf099dc850cdb7ed00.jpg" width="400px"/>
-
+<img 
+src="https://i.pinimg.com/1200x/d8/8a/30/d88a30ea20d412bf099dc850cdb7ed00.jpg" 
+width="500px" 
+style="border-radius: 30px;"/>
 </div>
 
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C9A227&center=true&vCenter=true&width=500&lines=Bem-vinde+ao+meu+pequeno+mundo+~">
+</div>
 ## Desenvolvedora
 
 Oii! Eu sou a **Giovanna**  
@@ -50,14 +54,14 @@ Construindo minha jornada na tecnologia
 
 </div>
 
+<br>
 
----
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=D4AF37&center=true&vCenter=true&width=600&lines=A+sword+wields+no+strength+unless+the+hand+that+holds+it+has+courage."/>
 
 <br>
 
-<img src="https://github.com/gdTech1/gdTech1/blob/main/output-onlinegiftools-com1.gif?raw=true" width="110px"/>
+<img src="https://github.com/gdTech1/gdTech1/blob/main/output-onlinegiftools-com.gif?raw=true" width="300px"/>
 
 </div>
