@@ -56,4 +56,8 @@ Construindo minha jornada na tecnologia
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=D4AF37&center=true&vCenter=true&width=600&lines=A+sword+wields+no+strength+unless+the+hand+that+holds+it+has+courage."/>
 
+<br>
+
+<img src="SEU_GIF_AQUI" width="110px"/>
+
 </div>
