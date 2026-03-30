@@ -58,6 +58,6 @@ Construindo minha jornada na tecnologia
 
 <br>
 
-<img src="SEU_GIF_AQUI" width="110px"/>
+<img src="https://github.com/gdTech1/gdTech1/blob/main/output-onlinegiftools-com1.gif?raw=true" width="110px"/>
 
 </div>
