@@ -10,27 +10,30 @@ width="400px"
 </div>
 
 
-## Desenvolvedora
-Oii! Eu sou a **Giovanna**  
-Estudante de Desenvolvimento de Sistemas  
-Focada em Inteligência Artificial  
-Construindo minha jornada na tecnologia  
+## 𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎
+𝙷𝚎𝚕𝚕𝚘𝚘.ᐟ.ᐟ 𝙴𝚞 𝚜𝚘𝚞 𝚊 **𝙶𝚒𝚘𝚟𝚊𝚗𝚗𝚊** ₊ ⊹
+
+- 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 
+- 𝙴𝚡𝚙𝚕𝚘𝚛𝚊𝚗𝚍𝚘 𝚘 𝚖𝚞𝚗𝚍𝚘 𝚍𝚊 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊
+- 𝙵𝚘𝚌𝚊𝚍𝚊 𝚎𝚖  **𝑰𝒏𝒕𝒆𝒍𝒊𝒈𝒆̂𝒏𝒄𝒊𝒂 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍** 
 
 
-## Minha vibe
+## 𝑴𝒊𝒏𝒉𝒂 𝒋𝒐𝒓𝒏𝒂𝒅𝒂
 
 ![Focus](https://img.shields.io/badge/Focus-AI-D4AF37?style=for-the-badge&logoColor=3E2C23)
 ![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20APIs-E6D3A3?style=for-the-badge&logoColor=3E2C23)
 ![Status](https://img.shields.io/badge/Status-Student-8B5E3C?style=for-the-badge&logoColor=FFFFFF)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-CD7F32?style=for-the-badge&logoColor=FFFFFF)
 
-## Conecte-se comigo
+## 𝑪𝒐𝒏𝒆𝒄𝒕𝒆-𝒔𝒆 𝒄𝒐𝒎𝒊𝒈𝒐
 
 [![Email](https://img.shields.io/badge/Email-E6D3A3?style=for-the-badge&logo=gmail&logoColor=3E2C23)](mailto:gd.techprofile@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=3E2C23)](https://www.linkedin.com/in/giovanna-duccini-martins)
 
 
-## Tecnologias
+## 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔
+𝙵𝚎𝚛𝚛𝚊𝚖𝚎𝚗𝚝𝚊𝚜 𝚚𝚞𝚎 𝚖𝚎 𝚊𝚌𝚘𝚖𝚙𝚊𝚗𝚑𝚊𝚖 𝚗𝚊 𝚓𝚘𝚛𝚗𝚊𝚍𝚊:
+
 ![Python](https://img.shields.io/badge/Python-E6D3A3?style=for-the-badge&logo=python&logoColor=3E2C23)
 ![HTML](https://img.shields.io/badge/HTML-CD7F32?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-8B5E3C?style=for-the-badge&logo=css3&logoColor=FFFFFF)
@@ -38,7 +41,7 @@ Construindo minha jornada na tecnologia
 ![Git](https://img.shields.io/badge/Git-D4AF37?style=for-the-badge&logo=git&logoColor=3E2C23)
 
 
-## Streak
+## 𝑺𝒕𝒓𝒆𝒂𝒌
 
 <div align="center">
   
