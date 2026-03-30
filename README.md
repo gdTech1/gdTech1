@@ -1,8 +1,8 @@
 <div align="center">
 <img 
 src="https://i.pinimg.com/1200x/d8/8a/30/d88a30ea20d412bf099dc850cdb7ed00.jpg" 
-width="500px" 
-style="border-radius: 30px;"/>
+width="400px" 
+/>
 </div>
 
 <div align="center">
