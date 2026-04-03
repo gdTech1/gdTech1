@@ -1,20 +1,17 @@
-name: Generate Snake
+name: Gerar Pac-Man do gráfico
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *' # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-
     steps:
-      - uses: Platane/snk@v3
+      - name: Gerar Pac-Man SVG
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: gdTech1
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=D4AF37&color_dots=E6D3A3,CD7F32,8B5E3C,5C4033
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=D4AF37&color_dots=E6D3A3,CD7F32,8B5E3C,5C4033
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
