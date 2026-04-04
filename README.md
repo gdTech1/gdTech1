@@ -1,12 +1,12 @@
 <div align="center">
 <img 
-src="https://i.pinimg.com/1200x/d8/8a/30/d88a30ea20d412bf099dc850cdb7ed00.jpg" 
+src="https://i.pinimg.com/1200x/32/4a/bb/324abba506725b12d66081706fde292d.jpg" 
 width="400px" 
 />
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C9A227&center=true&vCenter=true&width=500&lines=Bem-vinde+ao+meu+pequeno+mundo+~">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C0C0C0&center=true&vCenter=true&width=500&lines=welcome+to+my+world...">
 </div>
 
 
@@ -20,32 +20,32 @@ width="400px"
 
 ## 𝑴𝒊𝒏𝒉𝒂 𝒋𝒐𝒓𝒏𝒂𝒅𝒂
 
-![Focus](https://img.shields.io/badge/Focus-AI-D4AF37?style=for-the-badge&logoColor=3E2C23)
-![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20APIs-E6D3A3?style=for-the-badge&logoColor=3E2C23)
-![Status](https://img.shields.io/badge/Status-Student-8B5E3C?style=for-the-badge&logoColor=FFFFFF)
-![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-CD7F32?style=for-the-badge&logoColor=FFFFFF)
+![Focus](https://img.shields.io/badge/Focus-AI-000000?style=for-the-badge&logoColor=C0C0C0)
+![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20APIs-111111?style=for-the-badge&logoColor=C0C0C0)
+![Status](https://img.shields.io/badge/Status-Student-222222?style=for-the-badge&logoColor=C0C0C0)
+![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-333333?style=for-the-badge&logoColor=C0C0C0)
 
 ## 𝑪𝒐𝒏𝒆𝒄𝒕𝒆-𝒔𝒆 𝒄𝒐𝒎𝒊𝒈𝒐
 
-[![Email](https://img.shields.io/badge/Email-E6D3A3?style=for-the-badge&logo=gmail&logoColor=3E2C23)](mailto:gd.techprofile@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=3E2C23)](https://www.linkedin.com/in/giovanna-duccini-martins)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=C0C0C0)](mailto:gd.techprofile@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=C0C0C0)](https://www.linkedin.com/in/giovanna-duccini-martins)
 
 
 ## 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔
 𝙵𝚎𝚛𝚛𝚊𝚖𝚎𝚗𝚝𝚊𝚜 𝚚𝚞𝚎 𝚖𝚎 𝚊𝚌𝚘𝚖𝚙𝚊𝚗𝚑𝚊𝚖 𝚗𝚊 𝚓𝚘𝚛𝚗𝚊𝚍𝚊:
 
-![Python](https://img.shields.io/badge/Python-E6D3A3?style=for-the-badge&logo=python&logoColor=3E2C23)
-![HTML](https://img.shields.io/badge/HTML-CD7F32?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS](https://img.shields.io/badge/CSS-8B5E3C?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![Flask](https://img.shields.io/badge/Flask-5C4033?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-D4AF37?style=for-the-badge&logo=git&logoColor=3E2C23)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C0C0C0)
+![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=C0C0C0)
+![CSS](https://img.shields.io/badge/CSS-222222?style=for-the-badge&logo=css3&logoColor=C0C0C0)
+![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=C0C0C0)
+![Git](https://img.shields.io/badge/Git-444444?style=for-the-badge&logo=git&logoColor=C0C0C0)
 
 
 ## 𝑺𝒕𝒓𝒆𝒂𝒌
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=8B5E3C&ring=D4AF37&fire=CD7F32&currStreakNum=5C4033&sideNums=8B5E3C&currStreakLabel=D4AF37&sideLabels=8B5E3C&dates=5C4033"/>
+<img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=2B2B2B&ring=C0C0C0&fire=AAAAAA&currStreakNum=FFFFFF&sideNums=BBBBBB&currStreakLabel=C0C0C0&sideLabels=BBBBBB&dates=666666"/>
 
 </div>
 
@@ -64,8 +64,7 @@ width="400px"
 <br>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=D4AF37&center=true&vCenter=true&width=600&lines=A+sword+wields+no+strength+unless+the+hand+that+holds+it+has+courage."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=C0C0C0&center=true&vCenter=true&width=600&lines=My+thoughts+will+follow+you+even+into+your+dreams.">
 
 <br>
 
