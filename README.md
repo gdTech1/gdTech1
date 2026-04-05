@@ -6,7 +6,7 @@ width="400px"
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=welcome+to+my+calm+world+☁️">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=welcome+to+my+little+world">
 </div>
 
 
