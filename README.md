@@ -63,5 +63,5 @@ width="500px"
  <br> 
  
  <img src="https://github.com/gdTech1/gdTech1/blob/main/de36cc55fb3684642c44c6601ef4bd15-removebg-preview.png?raw=true" 
-  width="300px"/> 
+  width="200px"/> 
  </div>
