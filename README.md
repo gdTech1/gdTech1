@@ -62,6 +62,6 @@ width="500px"
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=D4AF37&center=true&vCenter=true&width=600&lines=A+sword+wields+no+strength+unless+the+hand+that+holds+it+has+courage."/> 
  <br> 
  
- <img src="https://i.pinimg.com/736x/de/36/cc/de36cc55fb3684642c44c6601ef4bd15.jpg" 
+ <img src="https://github.com/gdTech1/gdTech1/blob/main/de36cc55fb3684642c44c6601ef4bd15-removebg-preview.png?raw=true" 
   width="300px"/> 
  </div>
