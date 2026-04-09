@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-src="https://i.pinimg.com/1200x/d2/36/a4/d236a44cb614138ba128b3ba8d0e3737.jpg" 
+src="https://i.pinimg.com/1200x/b3/72/b7/b372b7c915197983617c3878b5f8503b.jpg" 
 width="500px" 
 />
 </div>
@@ -63,5 +63,5 @@ width="500px"
  <br> 
  
  <img src="https://github.com/gdTech1/gdTech1/blob/main/de36cc55fb3684642c44c6601ef4bd15-removebg-preview.png?raw=true" 
-  width="200px"/> 
+  width="100px"/> 
  </div>
