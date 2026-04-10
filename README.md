@@ -1,12 +1,12 @@
 <div align="center">
 <img 
-src="https://i.pinimg.com/1200x/b3/72/b7/b372b7c915197983617c3878b5f8503b.jpg" 
+src="https://i.pinimg.com/736x/49/63/cf/4963cf014a70533125725e5be53076d6.jpg" 
 width="500px" 
 />
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=welcome+to+my+little+world">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=-CD7F32&center=true&vCenter=true&width=500&lines=welcome+to+my+little+world">
 </div>
 
 
