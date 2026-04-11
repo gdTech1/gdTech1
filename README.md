@@ -6,59 +6,62 @@ width="500px"
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=CD7F32&center=true&vCenter=true&width=500&lines=welcome+to+my+little+world">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7A5CFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+world;Future+AI+Engineer;Building+intelligent+solutions">
 </div>
 
+---
 
-## 𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎
-𝙷𝚎𝚕𝚕𝚘𝚘.ᐟ.ᐟ 𝙴𝚞 𝚜𝚘𝚞 𝚊 **𝙶𝚒𝚘𝚟𝚊𝚗𝚗𝚊** ₊ ⊹
+## Sobre mim
 
-- 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 
-- 𝙴𝚡𝚙𝚕𝚘𝚛𝚊𝚗𝚍𝚘 𝚘 𝚖𝚞𝚗𝚍𝚘 𝚍𝚊 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊
-- 𝙵𝚘𝚌𝚊𝚍𝚊 𝚎𝚖 **𝑰𝒏𝒕𝒆𝒍𝒊𝒈𝒆̂𝒏𝒄𝒊𝒂 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍** 
+Olá! Eu sou a **Giovanna** 
 
+- Estudante de Desenvolvimento de Sistemas  
+- Focada em **Inteligência Artificial & Machine Learning**  
+- Estudando **Python, APIs e Back-end**  
 
-## 𝑴𝒊𝒏𝒉𝒂 𝒋𝒐𝒓𝒏𝒂𝒅𝒂
-
-![Focus](https://img.shields.io/badge/Focus-AI-D4AF37?style=for-the-badge&logoColor=3E2C23) 
-![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20APIs-E6D3A3?style=for-the-badge&logoColor=3E2C23) 
-![Status](https://img.shields.io/badge/Status-Student-8B5E3C?style=for-the-badge&logoColor=FFFFFF) 
-![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-CD7F32?style=for-the-badge&logoColor=FFFFFF)
+Transformando aprendizado em projetos reais.
 
 
-## 𝑪𝒐𝒏𝒆𝒄𝒕𝒆-𝒔𝒆 𝒄𝒐𝒎𝒊𝒈𝒐
+## Objetivo
 
-[![Email](https://img.shields.io/badge/Email-E6D3A3?style=for-the-badge&logo=gmail&logoColor=3E2C23)](mailto:gd.techprofile@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=3E2C23)](https://www.linkedin.com/in/giovanna-duccini-martins)
+Me tornar uma **AI Engineer**, criando soluções inteligentes e impactantes.
 
+---
 
-## 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔
-𝙵𝚎𝚛𝚛𝚊𝚖𝚎𝚗𝚝𝚊𝚜 𝚚𝚞𝚎 𝚖𝚎 𝚊𝚌𝚘𝚖𝚙𝚊𝚗𝚑𝚊𝚖 𝚗𝚊 𝚓𝚘𝚛𝒏𝚊𝚍𝚊:
+## Jornada
 
-![Python](https://img.shields.io/badge/Python-E6D3A3?style=for-the-badge&logo=python&logoColor=3E2C23) 
-![HTML](https://img.shields.io/badge/HTML-CD7F32?style=for-the-badge&logo=html5&logoColor=FFFFFF) 
-![CSS](https://img.shields.io/badge/CSS-8B5E3C?style=for-the-badge&logo=css3&logoColor=FFFFFF) 
-![Flask](https://img.shields.io/badge/Flask-5C4033?style=for-the-badge&logo=flask&logoColor=FFFFFF) 
-![Git](https://img.shields.io/badge/Git-D4AF37?style=for-the-badge&logo=git&logoColor=3E2C23)
+![Focus](https://img.shields.io/badge/Focus-AI-7A5CFF?style=for-the-badge&logoColor=FFFFFF) 
+![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20APIs-5F9CFF?style=for-the-badge&logoColor=FFFFFF) 
+![Status](https://img.shields.io/badge/Status-Student-3A0CA3?style=for-the-badge&logoColor=FFFFFF) 
+![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-4361EE?style=for-the-badge&logoColor=FFFFFF)
 
 
-## 𝑺𝒕𝒓𝒆𝒂𝒌 
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-5F9CFF?style=for-the-badge&logo=python&logoColor=FFFFFF) 
+![HTML](https://img.shields.io/badge/HTML-4361EE?style=for-the-badge&logo=html5&logoColor=FFFFFF) 
+![CSS](https://img.shields.io/badge/CSS-3A0CA3?style=for-the-badge&logo=css3&logoColor=FFFFFF) 
+![Flask](https://img.shields.io/badge/Flask-7A5CFF?style=for-the-badge&logo=flask&logoColor=FFFFFF) 
+![Git](https://img.shields.io/badge/Git-5F9CFF?style=for-the-badge&logo=git&logoColor=FFFFFF)
+
+---
+
+## GitHub Stats
+
 <div align="center"> 
-<img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=8B5E3C&ring=D4AF37&fire=CD7F32&currStreakNum=5C4033&sideNums=8B5E3C&currStreakLabel=D4AF37&sideLabels=8B5E3C&dates=5C4033"/>
+<img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=3A0CA3&ring=7A5CFF&fire=5F9CFF&currStreakNum=4361EE&sideNums=3A0CA3&currStreakLabel=7A5CFF&sideLabels=3A0CA3&dates=5F9CFF"/>
 </div> 
 
 <div align="center"> 
  <picture> 
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdTech1/gdTech1/output/pacman-contribution-graph-dark.svg"> 
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdTech1/gdTech1/output/pacman-contribution-graph.svg"> 
  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/gdTech1/gdTech1/output/pacman-contribution-graph.svg"> 
  </picture> 
 </div>
 
 ---
 
-<br>
+## Conecte-se comigo
 
-<div align="center"> 
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=CD7F32&center=true&vCenter=true&width=600&lines=A+sword+wields+no+strength+unless+the+hand+that+holds+it+has+courage."/> 
- 
+[![Email](https://img.shields.io/badge/Email-5F9CFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:gd.techprofile@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7A5CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/giovanna-duccini-martins)
