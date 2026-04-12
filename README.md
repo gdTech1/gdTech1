@@ -1,7 +1,7 @@
 <div align="center">
 <img 
 src="https://i.pinimg.com/originals/40/c4/47/40c44714aad74a1669c90671053ad608.gif" 
-width="500px" 
+width="400px" 
 />
 </div>
 
@@ -27,8 +27,8 @@ Transformando aprendizado em projetos reais.
 Me tornar uma **AI Engineer**, criando soluções inteligentes e impactantes.
 
 ---
-
-## Jornada
+<div align="center">
+<h2>Jornada</h2>
 
 ![Focus](https://img.shields.io/badge/Focus-AI-7A5CFF?style=for-the-badge&logoColor=FFFFFF) 
 ![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20APIs-5F9CFF?style=for-the-badge&logoColor=FFFFFF) 
@@ -36,7 +36,7 @@ Me tornar uma **AI Engineer**, criando soluções inteligentes e impactantes.
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-4361EE?style=for-the-badge&logoColor=FFFFFF)
 
 
-## Tecnologias
+<h2>Tecnologias</h2>
 
 ![Python](https://img.shields.io/badge/Python-5F9CFF?style=for-the-badge&logo=python&logoColor=FFFFFF) 
 ![HTML](https://img.shields.io/badge/HTML-4361EE?style=for-the-badge&logo=html5&logoColor=FFFFFF) 
@@ -44,11 +44,12 @@ Me tornar uma **AI Engineer**, criando soluções inteligentes e impactantes.
 ![Flask](https://img.shields.io/badge/Flask-7A5CFF?style=for-the-badge&logo=flask&logoColor=FFFFFF) 
 ![Git](https://img.shields.io/badge/Git-5F9CFF?style=for-the-badge&logo=git&logoColor=FFFFFF)
 
+</div>
+
 ---
 
-## GitHub Stats
-
 <div align="center"> 
+<h2>GitHub Stats</h2>
 <img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=3A0CA3&ring=7A5CFF&fire=5F9CFF&currStreakNum=4361EE&sideNums=3A0CA3&currStreakLabel=7A5CFF&sideLabels=3A0CA3&dates=5F9CFF"/>
 </div> 
 
