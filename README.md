@@ -51,15 +51,15 @@ Busco transformar aprendizado em projetos práticos, criando soluções reais co
 
 **Smart Task API**  
 API de produtividade inteligente com foco em backend  
-╰┈➤ 
+╰┈➤ (https://github.com/gdTech1/Smart-Task-API)
 
 **Insight Engine**  
 Pipeline de dados com ETL e dashboards interativos  
-╰┈➤ 
+╰┈➤ (https://github.com/gdTech1/Insight-engine)
 
 **Workflow Automation System**  
 Automação de tarefas com Python  
-╰┈➤ 
+╰┈➤ (https://github.com/gdTech1/Workflow-automation-system)
 
 ---
 
