@@ -8,8 +8,8 @@
 
 <div align="center">
 <img 
-src="https://i.pinimg.com/originals/40/c4/47/40c44714aad74a1669c90671053ad608.gif" 
-width="350px" />
+src="https://i.pinimg.com/736x/5b/69/0a/5b690ab6a976c824c34350750b71dfab.jpg" 
+width="600px" />
 </div>
 
 <div align="center">
