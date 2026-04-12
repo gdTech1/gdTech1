@@ -1,4 +1,4 @@
-# Neural1nked
+# gdTech
 
 - Estudante de Desenvolvimento de Sistemas  
 - Backend • Data • Inteligência Artificial  
