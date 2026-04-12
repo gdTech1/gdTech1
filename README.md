@@ -10,7 +10,7 @@ width="400px" />
 
 
 
-## Sobre mim
+## 𝙎𝙊𝘽𝙍𝙀 𝙈𝙄𝙈
 
 Olá! Eu sou a **Giovanna** 
 
@@ -21,13 +21,13 @@ Olá! Eu sou a **Giovanna**
 Transformando aprendizado em projetos reais.
 
 
-## Objetivo
+## 𝑶𝑩𝑱𝑬𝑻𝑰𝑽𝑶
 
 Me tornar uma **AI Engineer**, criando soluções inteligentes e impactantes.
 
 ---
 <div align="center">
-<h2>Jornada</h2>
+<h2>𝑱𝑶𝑹𝑵𝑨𝑫𝑨</h2>
 
 ![Focus](https://img.shields.io/badge/Focus-AI-7A5CFF?style=for-the-badge&logoColor=FFFFFF) 
 ![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20APIs-5F9CFF?style=for-the-badge&logoColor=FFFFFF) 
@@ -35,7 +35,7 @@ Me tornar uma **AI Engineer**, criando soluções inteligentes e impactantes.
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-4361EE?style=for-the-badge&logoColor=FFFFFF)
 
 
-<h2>Tecnologias</h2>
+<h2>𝑻𝑬𝑪𝑵𝑶𝑳𝑶𝑮𝑰𝑨𝑺</h2>
 
 ![Python](https://img.shields.io/badge/Python-5F9CFF?style=for-the-badge&logo=python&logoColor=FFFFFF) 
 ![HTML](https://img.shields.io/badge/HTML-4361EE?style=for-the-badge&logo=html5&logoColor=FFFFFF) 
@@ -48,7 +48,7 @@ Me tornar uma **AI Engineer**, criando soluções inteligentes e impactantes.
 ---
 
 <div align="center"> 
-<h2>GitHub Stats</h2>
+<h2>𝑮𝑰𝑻𝑯𝑼𝑩 𝑺𝑻𝑨𝑻𝑺</h2>
 <img src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=3A0CA3&ring=7A5CFF&fire=5F9CFF&currStreakNum=4361EE&sideNums=3A0CA3&currStreakLabel=7A5CFF&sideLabels=3A0CA3&dates=5F9CFF"/>
 </div> 
 
@@ -61,7 +61,7 @@ Me tornar uma **AI Engineer**, criando soluções inteligentes e impactantes.
 
 ---
 <div align="center"> 
-<h2>Conecte-se comigo</h2
+<h2>𝑪𝑶𝑵𝑬𝑪𝑻𝑬-𝑺𝑬 𝑪𝑶𝑴𝑰𝑮𝑶</h2
 
 [![Email](https://img.shields.io/badge/Email-5F9CFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:gd.techprofile@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7A5CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/giovanna-duccini-martins)
