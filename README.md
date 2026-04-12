@@ -60,8 +60,9 @@ Me tornar uma **AI Engineer**, criando soluções inteligentes e impactantes.
 </div>
 
 ---
-
-## Conecte-se comigo
+<div align="center"> 
+<h2>Conecte-se comigo</h2
 
 [![Email](https://img.shields.io/badge/Email-5F9CFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:gd.techprofile@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7A5CFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/giovanna-duccini-martins)
+</div> 
