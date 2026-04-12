@@ -1,15 +1,14 @@
 <div align="center">
 <img 
 src="https://i.pinimg.com/originals/40/c4/47/40c44714aad74a1669c90671053ad608.gif" 
-width="400px" 
-/>
+width="400px" />
 </div>
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7A5CFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+world;Future+AI+Engineer;Building+intelligent+solutions">
 </div>
 
----
+
 
 ## Sobre mim
 
