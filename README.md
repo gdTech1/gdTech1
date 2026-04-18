@@ -1,4 +1,4 @@
-# gdTech
+# GᗪTEᑕᕼ
 
 - Estudante de Desenvolvimento de Sistemas  
 - Backend • Data • Inteligência Artificial  
