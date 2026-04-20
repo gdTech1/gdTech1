@@ -1,8 +1,8 @@
 
 <div align="center">
 <img 
-src=""
-width="500px" />
+src="https://raw.githubusercontent.com/gdTech1/gdTech1/main/.github/workflows/banner.png"
+width="1000px" />
 </div>
 
 
