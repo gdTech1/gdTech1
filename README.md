@@ -8,19 +8,7 @@ width="600px" />
 <div align="center">
 
 <h3>𝓰𝓭𝓣𝓮𝓬𝓱</h3>
-
-<p><i>
-Estudante de Desenvolvimento de Sistemas<br>
-Backend • Data • Inteligência Artificial<br>
-Construindo APIs, pipelines de dados com Python
-</i></p>
-
 </div>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6D3A3&height=2&section=footer"/>
-</p>
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7B6A4F&center=true&vCenter=true&width=600&lines=Backend+%7C+Data+%7C+AI;Building+real+projects;Future+AI+Engineer">
@@ -103,15 +91,15 @@ Sistema de automação de tarefas com Python
 </p>
 
 <div align="center"> 
-  <h2>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜</h2>
+  <h3>GitHub Stats</h3>
   
-  <img height="165em" src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=A68A64&ring=7B6A4F&fire=C2A878&currStreakNum=7B6A4F&sideNums=A68A64&currStreakLabel=7B6A4F&sideLabels=A68A64&dates=C2A878"/>
+  <img height="140em" src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=A68A64&ring=7B6A4F&fire=C2A878&currStreakNum=7B6A4F&sideNums=A68A64&currStreakLabel=7B6A4F&sideLabels=A68A64&dates=C2A878"/>
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdTech1&layout=compact&hide_border=true&bg_color=00000000&title_color=7B6A4F&text_color=C2A878" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdTech1&layout=compact&hide_border=true&bg_color=00000000&title_color=7B6A4F&text_color=C2A878" />
 </div>
 
 <div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=00000000&color=7B6A4F&line=A68A64&point=C2A878&area=true&hide_border=true"/>
+  <img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=00000000&color=7B6A4F&line=A68A64&point=C2A878&area=true&hide_border=true"/>
 </div>
 
 <p align="center">
