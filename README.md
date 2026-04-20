@@ -8,11 +8,6 @@ width="700px" />
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7B6A4F&center=true&vCenter=true&width=600&lines=Backend+%7C+Data+%7C+AI;Building+real+projects;Future+AI+Engineer">
 </div>
 
-<div align="center">
-
-<h3>𝑮𝑫𝑻𝑬𝑪𝑯</h3>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E6D3A3&height=2&section=footer"/>
 </p>
