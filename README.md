@@ -1,3 +1,11 @@
+
+<div align="center">
+<img 
+src=""
+width="500px" />
+</div>
+
+
 # GᗪTEᑕᕼ
 
 - Estudante de Desenvolvimento de Sistemas  
@@ -5,12 +13,6 @@
 - Construindo APIs, pipelines de dados e automações com Python  
 
 ---
-
-<div align="center">
-<img 
-src="https://i.pinimg.com/originals/40/c4/47/40c44714aad74a1669c90671053ad608.gif" 
-width="500px" />
-</div>
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7A5CFF&center=true&vCenter=true&width=600&lines=Backend+%7C+Data+%7C+AI;Building+real+projects;Future+AI+Engineer">
