@@ -89,13 +89,6 @@ Sistema de automação de tarefas com Python
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E6D3A3&height=2&section=footer"/>
 </p>
 
-<div align="center"> 
-
-### 𝙲𝚘𝚗𝚎𝚌𝚝𝚎-𝚜𝚎 𝚌𝚘𝚖𝚒𝚐𝚘
-[![Email](https://img.shields.io/badge/Email-C2A878?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:gd.techprofile@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A68A64?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/giovanna-duccini-martins)
-
-</div>
 
 <p align="center">
   <i>𝑐𝑟𝑎𝑓𝑡𝑖𝑛𝑔 𝑠𝑦𝑠𝑡𝑒𝑚𝑠 𝑤𝑖𝑡ℎ 𝑐𝑎𝑙𝑚 𝑎𝑛𝑑 𝑖𝑛𝑡𝑒𝑛𝑡𝑖𝑜𝑛</i>
