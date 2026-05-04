@@ -18,7 +18,6 @@
 
 </div>
 
----
 
 ## 𝐴𝐵𝑂𝑈𝑇 𝑀𝐸
 Backend & data-focused developer building a strong foundation in **systems engineering and artificial intelligence**.
