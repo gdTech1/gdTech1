@@ -58,38 +58,6 @@ I focus on understanding how systems actually work, from data flow to API design
 
 ---
 
-## 𝐹𝐸𝐴𝑇𝑈𝑅𝐸𝐷 𝑃𝑅𝑂𝐽𝐸𝐶𝑇𝑆
-
-### ✧ 𝖲𝗆𝖺𝗋𝗍 𝖳𝖺𝗌𝗄 𝖠𝖯𝖨  
-Backend system for intelligent task management and automation  
-
-![API](https://img.shields.io/badge/API-FastAPI-7B6A4F?style=flat-square)
-![Architecture](https://img.shields.io/badge/Architecture-Clean-A68A64?style=flat-square)
-
-https://github.com/gdTech1/Smart-Task-API  
-
----
-
-### ✧ 𝖨𝗇𝗌𝗂𝗀𝗁𝗍 𝖤𝗇𝗀𝗂𝗇𝖾  
-Data pipeline for extracting and generating insights  
-
-![Data](https://img.shields.io/badge/Data-ETL-C2A878?style=flat-square)
-![Processing](https://img.shields.io/badge/Processing-Python-E6D3A3?style=flat-square)
-
- https://github.com/gdTech1/Insight-engine  
-
----
-
-### ✧ 𝖶𝗈𝗋𝗄𝖿𝗅𝗈𝗐 𝖠𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝗈𝗇 𝖲𝗒𝗌𝗍𝖾𝗆  
-Automation system for repetitive processes  
-
-![Automation](https://img.shields.io/badge/Automation-Python-7B6A4F?style=flat-square)
-![System](https://img.shields.io/badge/System-Modular-A68A64?style=flat-square)
-
-https://github.com/gdTech1/Workflow-automation-system  
-
----
-
 ## 𝐺𝐼𝑇𝐻𝑈𝐵 𝑆𝑇𝐴𝑇𝑆
 
 <div align="center">
