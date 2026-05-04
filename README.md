@@ -21,13 +21,13 @@
 ---
 
 ## 𝐴𝐵𝑂𝑈𝑇 𝑀𝐸
-I’m a backend and data-focused developer building a strong foundation in **systems engineering and artificial intelligence**.
-I focus on understanding how systems actually work, from data flow to API design and intelligent behavior.
+Backend & data-focused developer building a strong foundation in **systems engineering and artificial intelligence**.
+I focus on understanding how systems actually work, from data flow to APIs and intelligent behavior.
 
-- Building real-world backend systems  
-- Designing data pipelines (ETL)  
-- Studying machine learning fundamentals  
-- Developing long-term engineering depth  
+- Backend systems  
+- Data pipelines (ETL)  
+- Machine learning fundamentals  
+- Long-term engineering depth  
 
 ---
 
