@@ -61,8 +61,6 @@ I focus on understanding how systems actually work, from data flow to APIs and i
 
 <div align="center">
 <img height="140em" src="https://streak-stats.demolab.com?user=gdTech1&hide_border=true&background=00000000&stroke=A68A64&ring=7B6A4F&fire=C2A878&currStreakNum=7B6A4F&sideNums=A68A64&currStreakLabel=7B6A4F&sideLabels=A68A64&dates=C2A878"/> 
-
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdTech1&layout=compact&hide_border=true&bg_color=00000000&title_color=7B6A4F&text_color=C2A878" /> 
 </div> 
 
 <div align="center"> 
