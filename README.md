@@ -1,14 +1,16 @@
-
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/gdTech1/gdTech1/main/.github/workflows/banner.png"
-    width="600px" 
-  />
-</div>
+## 𝐴𝐵𝑂𝑈𝑇 𝑀𝐸
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=7B6A4F&center=true&vCenter=true&width=500&lines=Backend+%7C+Data+%7C+AI;Building+real+projects;Future+AI+Engineer"> </div>
 
+Backend & data-focused developer building a strong foundation in **systems engineering and artificial intelligence**.
+I focus on understanding how systems actually work, from data flow to APIs and intelligent behavior.
 
+- Backend systems  
+- Data pipelines (ETL)  
+- Machine learning fundamentals  
+- Long-term engineering depth
+
+  
 <div align="center">
 
 ![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Systems-7B6A4F?style=for-the-badge&logoColor=white)
@@ -17,16 +19,6 @@
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-E6D3A3?style=for-the-badge&logoColor=black)
 
 </div>
-
-
-## 𝐴𝐵𝑂𝑈𝑇 𝑀𝐸
-Backend & data-focused developer building a strong foundation in **systems engineering and artificial intelligence**.
-I focus on understanding how systems actually work, from data flow to APIs and intelligent behavior.
-
-- Backend systems  
-- Data pipelines (ETL)  
-- Machine learning fundamentals  
-- Long-term engineering depth  
 
 ---
 
