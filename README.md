@@ -7,10 +7,6 @@
 </div>
 
 <div align="center">
-<h2>ABOUT ME</h2>
-</div>
-
-<div align="center">
 
 ![Focus](https://img.shields.io/badge/FOCUS-AI%20SYSTEMS-D90429?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/STACK-BACKEND%20%7C%20DATA-C0C0C0?style=for-the-badge\&color=111111)
@@ -36,11 +32,7 @@ I am focused on building a strong foundation in computer science, backend engine
 
 My goal is not only to use AI technologies, but to understand how intelligent systems are designed, built and improved.
 
-
-
-<div align="center">
-<h2> TECHNOLOGY STACK</h2>
-</div>
+---
 
 <div align="center">
 
@@ -54,6 +46,7 @@ My goal is not only to use AI technologies, but to understand how intelligent sy
 
 </div>
 
+ ---
 
 <div align="center">
 <h2>CURRENT FOCUSY</h2>
