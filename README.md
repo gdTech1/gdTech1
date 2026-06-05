@@ -28,10 +28,19 @@ FOCUS:
 OBJECTIVE: Become an AI/ML Engineer
 ```
 
-I am focused on building a strong foundation in computer science, backend engineering, data systems and artificial intelligence.
+I am focused on building a strong foundation in computer science, backend engineering, data systems and artificial intelligence. My goal is not only to use AI technologies, but to understand how intelligent systems are designed, built and improved.
 
-My goal is not only to use AI technologies, but to understand how intelligent systems are designed, built and improved.
 
+#### CURRENT FOCUSY
+
+```text
++ Backend Development
++ Data Engineering Fundamentals
++ Machine Learning
++ Computer Science
++ System Design
++ Artificial Intelligence
+```
 ---
 
 <div align="center">
@@ -46,21 +55,7 @@ My goal is not only to use AI technologies, but to understand how intelligent sy
 
 </div>
 
- ---
-
-<div align="center">
-<h2>CURRENT FOCUSY</h2>
-</div>
-
-```text
-+ Backend Development
-+ Data Engineering Fundamentals
-+ Machine Learning
-+ Computer Science
-+ System Design
-+ Artificial Intelligence
-```
-
+---
 
 <div align="center">
 <h2>GITHUB ACTIVITY</h2>
