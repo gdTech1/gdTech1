@@ -6,6 +6,13 @@
 
 </div>
 
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
 <div align="center">
 
 ![Focus](https://img.shields.io/badge/FOCUS-AI%20SYSTEMS-D90429?style=for-the-badge)
@@ -14,6 +21,7 @@
 ![Goal](https://img.shields.io/badge/GOAL-AI%20ENGINEER-C0C0C0?style=for-the-badge\&color=111111)
 
 </div>
+
 
 ```text
 STATUS: ACTIVE
@@ -31,6 +39,12 @@ OBJECTIVE: Become an AI/ML Engineer
 I am focused on building a strong foundation in computer science, backend engineering, data systems and artificial intelligence. My goal is not only to use AI technologies, but to understand how intelligent systems are designed, built and improved.
 
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
 #### CURRENT FOCUSY
 
 ```text
@@ -41,7 +55,7 @@ I am focused on building a strong foundation in computer science, backend engine
 + System Design
 + Artificial Intelligence
 ```
----
+
 
 <div align="center">
 
@@ -55,7 +69,12 @@ I am focused on building a strong foundation in computer science, backend engine
 
 </div>
 
----
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
 
 <div align="center">
 <h2>GITHUB ACTIVITY</h2>
