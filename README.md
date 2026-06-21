@@ -30,7 +30,6 @@ ROLE: Student Developer
 
 FOCUS:
   - Artificial Intelligence
-  - Backend Engineering
   - Data Systems
 
 OBJECTIVE: Become an AI/ML Engineer
