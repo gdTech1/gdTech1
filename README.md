@@ -6,11 +6,8 @@
 
 </div>
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=4&section=footer"/>
-
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
 </div>
 
 <div align="center">
@@ -38,10 +35,8 @@ OBJECTIVE: Become an AI/ML Engineer
 I am focused on building a strong foundation in computer science, backend engineering, data systems and artificial intelligence. My goal is not only to use AI technologies, but to understand how intelligent systems are designed, built and improved.
 
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=4&section=footer"/>
-
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
 </div>
 
 #### CURRENT FOCUSY
@@ -68,11 +63,8 @@ I am focused on building a strong foundation in computer science, backend engine
 
 </div>
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=4&section=footer"/>
-
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
 </div>
 
 <div align="center">
