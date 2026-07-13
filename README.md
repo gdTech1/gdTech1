@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.png" width="100%">
+<img src="assets/hero.png" width="80%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineering+Student;Backend+Developer;Data+Systems;Machine+Learning+Explorer;Building+the+Future+One+System+at+a+Time"/>
 
