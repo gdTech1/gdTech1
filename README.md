@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,50:0B1020,100:8A2BE2&text=NEURAL1NKED%20&fontColor=E8E8FF&fontSize=48&animation=fadeIn"/>
+<img src="assets/banner.png" width="100%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineering+Student;Backend+Developer;Data+Systems;Machine+Learning+Explorer;Building+the+Future+One+System+at+a+Time"/>
 
