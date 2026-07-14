@@ -82,7 +82,7 @@ The technologies below represent the ecosystem I'm currently studying to build f
 
 <br>
 
-<img align="right" width= 400 src="https://64.media.tumblr.com/23ab6ab83aa8b30dd0c5614973f75816/4436965a9c018cab-f7/s400x600/f11e939e052222ad2284fae90fe4b66c44072720.gifv">
+<img align="right" width= 500 src="https://64.media.tumblr.com/23ab6ab83aa8b30dd0c5614973f75816/4436965a9c018cab-f7/s400x600/f11e939e052222ad2284fae90fe4b66c44072720.gifv">
 
 ### Languages & Backend
 
