@@ -121,13 +121,18 @@ Building scalable systems capable of supporting modern AI applications and compl
 
 <br>
 
-<div align="center">
+
+<img align="right" src="https://64.media.tumblr.com/e58c8f4c2b2f9556e801dc03ad3dacb1/tumblr_inline_p7xowuneEy1rhwzwl_400.gifv">
+
 
 ### *"There are no intelligent machines.*
 ### *Only machines we haven't understood yet."*
 
-<br>
+<br clear="right"/>
 
+
+<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
 
 </div>
