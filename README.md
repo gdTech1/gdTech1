@@ -16,8 +16,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
 </div>
 
-
-## RESEARCH PROFILE
+<h2>
+  <img src="https://64.media.tumblr.com/tumblr_m76gux6H8M1ql2gz1.gif" width="34" align="absmiddle">
+  RESEARCH PROFILE
+</h2>
 
 Artificial Intelligence has become much more than a field of study for me.
 
@@ -30,7 +32,10 @@ Rather than simply training models, I'm interested in understanding how intellig
 </div>
 
 
-##  CURRENT EXPLORATION
+<h2>
+  <img src="https://64.media.tumblr.com/de66518628388c574e9bec6d74229d89/tumblr_inline_p8bvz2PT7b1rhwzwl_75sq.gifv" width="34" align="absmiddle">
+  CURRENT EXPLORATION
+</h2>
 
 ### Artificial Intelligence
 Studying the theoretical and practical foundations required to design intelligent systems capable of learning and reasoning.
@@ -49,9 +54,12 @@ Building scalable systems capable of supporting modern AI applications and compl
 </div>
 
 
-## TECHNOLOGY ECOSYSTEM
+<h2>TECHNOLOGY ECOSYSTEM</h2>
 
-<div align="center">
+<table>
+<tr>
+
+<td width="72%" valign="top">
 
 **Languages & Backend**
 <br>
@@ -76,7 +84,16 @@ Building scalable systems capable of supporting modern AI applications and compl
 ![FAISS](https://img.shields.io/badge/FAISS-111111?style=for-the-badge&logo=meta&logoColor=00D9FF)
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=00D9FF)
 
-</div>
+</td>
+
+<td width="38%" align="center">
+
+<img src="https://64.media.tumblr.com/23ab6ab83aa8b30dd0c5614973f75816/4436965a9c018cab-f7/s400x600/f11e939e052222ad2284fae90fe4b66c44072720.gifv" width="300">
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -121,14 +138,31 @@ Building scalable systems capable of supporting modern AI applications and compl
 
 <br>
 
+<table>
+<tr>
 
-<img align="right" src="https://64.media.tumblr.com/e58c8f4c2b2f9556e801dc03ad3dacb1/tumblr_inline_p7xowuneEy1rhwzwl_400.gifv">
+<td width="100%">
 
+<h3>
 
-### *"There are no intelligent machines.*
-### *Only machines we haven't understood yet."*
+"There are no intelligent machines.
 
-<br clear="right"/>
+<br><br>
+
+Only machines we haven't understood yet."
+
+</h3>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://64.media.tumblr.com/e58c8f4c2b2f9556e801dc03ad3dacb1/tumblr_inline_p7xowuneEy1rhwzwl_400.gifv">
+
+</td>
+
+</tr>
+</table>
 
 
 <div align="center">
