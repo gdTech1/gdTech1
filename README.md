@@ -1,68 +1,91 @@
 <div align="center">
 
-<img src="assets/hero.png" width="85%" alt="NEURAL1NKED"/>
+<img src="assets/hero.png" width="88%" alt="NEURAL1NKED">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2500&color=00D9FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Cognitive+Systems;Machine+Learning;Building+the+Future+One+System+at+a+Time"/>
+<br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2500&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Cognitive+Systems;Machine+Learning;Neuroscience;Understanding+Intelligence;Building+the+Future+One+System+at+a+Time"/>
 
-![Research](https://img.shields.io/badge/RESEARCH-AI%20%26%20COGNITIVE%20SYSTEMS-111111?style=for-the-badge&logoColor=white&color=00D9FF)
-![Status](https://img.shields.io/badge/STATUS-LEARNING-111111?style=for-the-badge&color=7C3AED)
-![Focus](https://img.shields.io/badge/FOCUS-INTELLIGENT%20SYSTEMS-111111?style=for-the-badge&color=00D9FF)
+<br>
+
+![Mission](https://img.shields.io/badge/MISSION-UNDERSTANDING%20INTELLIGENCE-111111?style=for-the-badge&color=00D9FF)
+![Status](https://img.shields.io/badge/STATUS-RESEARCH%20IN%20PROGRESS-111111?style=for-the-badge&color=7C3AED)
+![Field](https://img.shields.io/badge/FIELD-COGNITIVE%20SYSTEMS-111111?style=for-the-badge&color=00D9FF)
 
 </div>
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
+
 </div>
 
 <h2>
-  <img src="https://64.media.tumblr.com/tumblr_m76gux6H8M1ql2gz1.gif" width="34" align="absmiddle">
-  RESEARCH PROFILE
+<img src="https://64.media.tumblr.com/tumblr_m76gux6H8M1ql2gz1.gif" width="30">
+ RESEARCH PROFILE
 </h2>
 
-Artificial Intelligence has become much more than a field of study for me.
 
-I'm currently building a solid foundation in **Computer Science**, **Backend Engineering**, **Machine Learning**, **Neuroscience**, and **Cognitive Science** with the long-term goal of contributing to the development of **Cognitive Artificial Intelligence**.
+Artificial Intelligence is not my final destination—it is one of the paths toward understanding how intelligence emerges, learns, remembers, reasons and adapts.
 
-Rather than simply training models, I'm interested in understanding how intelligent systems can **learn**, **reason**, **remember**, and **adapt** through architectures inspired by biological cognition.
+I'm currently building a solid foundation in **Computer Science**, **Artificial Intelligence**, **Machine Learning**, **Neuroscience** and **Cognitive Science**, with the long-term goal of contributing to technologies that bring biological and artificial intelligence closer together.
+
+Rather than simply developing models, I'm interested in understanding the principles behind **learning**, **memory**, **reasoning** and **cognition**.
+
+I believe the future will not be defined by machines replacing humans, but by humans and intelligent systems evolving together.
+
+<br clear="right"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
+
 </div>
 
-
 <h2>
-  <img src="https://64.media.tumblr.com/de66518628388c574e9bec6d74229d89/tumblr_inline_p8bvz2PT7b1rhwzwl_75sq.gifv" width="34" align="absmiddle">
-  CURRENT EXPLORATION
+<img src="http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2057/th_thDS.gif" width="30">
+ CURRENT PROFILE
 </h2>
+
+<img align="left" width= 400 src="https://64.media.tumblr.com/7cf45e9db4c7ff972b790c8442169ccc/c79058b2571b58da-88/s400x600/de77363f556be97c1b4474b185d69b5b4c1fd480.gifv">
 
 ### Artificial Intelligence
-Studying the theoretical and practical foundations required to design intelligent systems capable of learning and reasoning.
+
+Building a solid understanding of intelligent systems, learning algorithms and modern AI architectures.
 
 ### Cognitive Systems
-Exploring how memory, reasoning and knowledge representation can inspire future AI architectures.
+
+Exploring memory architectures, reasoning, knowledge representation and cognitive-inspired AI.
 
 ### Neuroscience
-Understanding biological cognition and neural mechanisms to bridge the gap between brains and intelligent machines.
+
+Studying biological cognition and neural mechanisms to better understand intelligence.
 
 ### Backend Engineering
-Building scalable systems capable of supporting modern AI applications and complex data structures.
+
+Designing scalable infrastructures capable of supporting future intelligent systems.
+
+<br clear="right"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
+
 </div>
 
+<h2>
+<img src="https://64.media.tumblr.com/de66518628388c574e9bec6d74229d89/tumblr_inline_p8bvz2PT7b1rhwzwl_75sq.gifv" width="30">
+ RESEARCH INFRASTRUCTURE
+</h2>
 
-<h2>TECHNOLOGY ECOSYSTEM</h2>
+The technologies below represent the ecosystem I'm currently studying to build future intelligent systems.
 
-<table>
-<tr>
-
-<td width="72%" valign="top">
-
-**Languages & Backend**
 <br>
+
+<img align="right" width= 500 src="https://64.media.tumblr.com/23ab6ab83aa8b30dd0c5614973f75816/4436965a9c018cab-f7/s400x600/f11e939e052222ad2284fae90fe4b66c44072720.gifv">
+
+### Languages & Backend
+
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00D9FF)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E8E8F0)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=8A2BE2)
@@ -71,61 +94,56 @@ Building scalable systems capable of supporting modern AI applications and compl
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=8A2BE2)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
 
-<br>
-
-**Artificial Intelligence**
-<br>
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=00D9FF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=00D9FF)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF)
-![Transformers](https://img.shields.io/badge/Transformers-111111?style=for-the-badge&logo=huggingface&logoColor=00D9FF)
+### Artificial Intelligence
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Transformers](https://img.shields.io/badge/Transformers-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=00D9FF)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge&logo=databricks&logoColor=00D9FF)
-![FAISS](https://img.shields.io/badge/FAISS-111111?style=for-the-badge&logo=meta&logoColor=00D9FF)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=00D9FF)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge&color=00D9FF)
+![FAISS](https://img.shields.io/badge/FAISS-111111?style=for-the-badge&color=8A2BE2)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=FFFFFF)
 
-</td>
+<br clear="right"/>
 
-<td width="38%" align="center">
-
-<img src="https://64.media.tumblr.com/23ab6ab83aa8b30dd0c5614973f75816/4436965a9c018cab-f7/s400x600/f11e939e052222ad2284fae90fe4b66c44072720.gifv" width="300">
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
 </div>
 
-<br>
+<h2>
+<img src="https://64.media.tumblr.com/28de031b633c094a2a5e3f019676b6f9/d7d2397e3c8eb503-36/s75x75_c1/b7ad9a7a897eccdc9d81454de3b7847cdaff26e5.gifv" width="40">
+ RESEARCH ACTIVITY
+</h2>
 
-## GITHUB ACTIVITY
+<p align="center">
+
+<img
+width="88%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=00000000&color=00D9FF&line=00D9FF&point=8A2BE2&area=true&hide_border=true"/>
+
+</p>
+
+<br>
 
 <div align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=E9F8F8&color=00D9FF&line=00D9FF&point=8A2BE2&area=true&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
-</div>
-
-<br>
-
-## CURRENT INTERESTS
+<h2>
+<img src="https://64.media.tumblr.com/702947d3facc0fbd17e98f82644e6ca3/2e828f844ac5447b-23/s100x200/2642c24bafd69510b2820ac5734e4f30d831bfc8.gifv" width="50">
+ CURRENT INTERESTS
+</h2>
 
 <div align="center">
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge&color=00D9FF)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge&color=7C3AED)
-![Cognitive Systems](https://img.shields.io/badge/Cognitive%20Systems-111111?style=for-the-badge&color=E8E8F0)
-![Neuroscience](https://img.shields.io/badge/Neuroscience-111111?style=for-the-badge&color=00D9FF)
-![Knowledge Representation](https://img.shields.io/badge/Knowledge%20Representation-111111?style=for-the-badge&color=7C3AED)
+![Cognitive Systems](https://img.shields.io/badge/Cognitive%20Systems-111111?style=for-the-badge&color=7C3AED)
+![Neuroscience](https://img.shields.io/badge/Neuroscience-111111?style=for-the-badge&color=E8E8F0)
+![Knowledge Representation](https://img.shields.io/badge/Knowledge%20Representation-111111?style=for-the-badge&color=00D9FF)
+![Memory Architectures](https://img.shields.io/badge/Memory%20Architectures-111111?style=for-the-badge&color=7C3AED)
 ![Human–AI Integration](https://img.shields.io/badge/Human--AI%20Integration-111111?style=for-the-badge&color=E8E8F0)
 
 </div>
@@ -133,40 +151,30 @@ Building scalable systems capable of supporting modern AI applications and compl
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
 </div>
+
+## FINAL NOTE
+
+Intelligence is not something to be replicated.
+
+It is something to be understood.
+
+The future of Artificial Intelligence will not be defined only by larger models or faster hardware, but by our ability to understand how cognition emerges from interaction, memory, perception and adaptation.
+
+That is the direction I want to explore.
 
 <br>
 
-<table>
-<tr>
+> *There are no intelligent machines.*  
+> *Only machines we haven't understood yet.*
 
-<td width="100%">
+<img src="https://64.media.tumblr.com/f72c74579976591f43fe2c9f236a3c94/440813b3af0c3c30-05/s400x600/952e1e86ca0261413aa4e516f0c0b8290be6604e.gifv" width="280"/>
 
-<h3>
-
-"There are no intelligent machines.
-
-<br><br>
-
-Only machines we haven't understood yet."
-
-</h3>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://64.media.tumblr.com/e58c8f4c2b2f9556e801dc03ad3dacb1/tumblr_inline_p7xowuneEy1rhwzwl_400.gifv">
-
-</td>
-
-</tr>
-</table>
-
+<br>
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020C28,40:00D9FF,75:7C3AED,100:E2E8F0"/>
 
 </div>
