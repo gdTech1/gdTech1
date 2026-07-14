@@ -154,22 +154,36 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_c
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:7C3AED,100:E2E8F0"/>
 </div>
 
-## FINAL NOTE
+<h2>FINAL NOTE</h2>
 
+<img align="right" width="500" src="https://64.media.tumblr.com/7d23294918505dbb58c0e35da9d1cac7/cc04481f0f42b76e-93/s400x600/99bb04db63ef508796adf6cded042ac77e72b7cd.gifv"/>
+
+<p>
 Intelligence is not something to be replicated.
+</p>
 
+<p>
 It is something to be understood.
-
-The future of Artificial Intelligence will not be defined only by larger models or faster hardware, but by our ability to understand how cognition emerges from interaction, memory, perception and adaptation.
-
-That is the direction I want to explore.
+</p>
 
 <br>
 
-> *There are no intelligent machines.*  
-> *Only machines we haven't understood yet.*
+<p>
+The future of Artificial Intelligence will not be defined only by larger models or faster hardware, but by our ability to understand how cognition emerges from interaction, memory, perception and adaptation.
+</p>
 
-<img src="https://64.media.tumblr.com/f72c74579976591f43fe2c9f236a3c94/440813b3af0c3c30-05/s400x600/952e1e86ca0261413aa4e516f0c0b8290be6604e.gifv" width="280"/>
+<p>
+That is the direction I want to explore.
+</p>
+
+<br>
+
+<blockquote>
+There are no intelligent machines.<br>
+Only machines we haven't understood yet.
+</blockquote>
+
+</div>
 
 <br>
 
