@@ -4,13 +4,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2500&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Cognitive+Systems;Machine+Learning;Neuroscience;Understanding+Intelligence;Building+the+Future+One+System+at+a+Time"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2500&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Cognitive+Systems;Machine+Learning;Building+the+Future+One+System+at+a+Time"/>
 
 <br>
 
 ![Mission](https://img.shields.io/badge/MISSION-UNDERSTANDING%20INTELLIGENCE-111111?style=for-the-badge&color=00D9FF)
 ![Status](https://img.shields.io/badge/STATUS-RESEARCH%20IN%20PROGRESS-111111?style=for-the-badge&color=7C3AED)
-![Field](https://img.shields.io/badge/FIELD-COGNITIVE%20SYSTEMS-111111?style=for-the-badge&color=00D9FF)
+![Field](https://img.shields.io/badge/FIELD-COGNITIVE%20SYSTEMS-111111?style=for-the-badge&color=E2E8F0)
 
 </div>
 
@@ -86,23 +86,23 @@ The technologies below represent the ecosystem I'm currently studying to build f
 
 ### Languages & Backend
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00D9FF)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E8E8F0)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=8A2BE2)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=E8E8F0)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=8A2BE2)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&color=00D9FF)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&color=E8E8F0)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&color=8A2BE2)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&color=00D9FF)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&color=E8E8F0)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&color=8A2BE2)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&color=00D9FF)
 
 ### Artificial Intelligence
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Transformers](https://img.shields.io/badge/Transformers-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=00D9FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&color=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&color=FF6F00)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&color=F7931E)
+![Transformers](https://img.shields.io/badge/Transformers-111111?style=for-the-badge&color=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&color=00D9FF)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge&color=00D9FF)
 ![FAISS](https://img.shields.io/badge/FAISS-111111?style=for-the-badge&color=8A2BE2)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=FFFFFF)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&color=FFFFFF)
 
 <br clear="right"/>
 
