@@ -89,7 +89,7 @@ Building scalable systems capable of supporting modern AI applications and compl
 ## GITHUB ACTIVITY
 
 <div align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=05070D&color=E8E8F0&line=00D9FF&point=8A2BE2&area=true&hide_border=true"/>
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=E9F8F8&color=00D9FF&line=00D9FF&point=8A2BE2&area=true&hide_border=true"/>
 </div>
 
 <br>
