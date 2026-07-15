@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.png" width="88%" alt="NEURAL1NKED">
+<img src="assets/hero-banner.png" width="88%" alt="NEURAL1NKED">
 
 <br>
 
