@@ -104,6 +104,7 @@ The technologies below represent the ecosystem I'm currently studying to build f
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge&color=00D9FF)
 ![FAISS](https://img.shields.io/badge/FAISS-111111?style=for-the-badge&color=8A2BE2)
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&color=FFFFFF)
+![MLflow](https://img.shields.io/badge/MLflow-111111?style=for-the-badge&color=8A2BE2)
 
 <br clear="right"/>
 
