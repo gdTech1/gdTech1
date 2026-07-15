@@ -118,13 +118,11 @@ The technologies below represent the ecosystem I'm currently studying to build f
  RESEARCH ACTIVITY
 </h2>
 
-<p align="center">
+<div align="center">
 
-<img
-width="88%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=00000000&color=00D9FF&line=00D9FF&point=8A2BE2&area=true&hide_border=true"/>
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=E2E8F0&color=8A2BE2&line=00D9FF&point=8A2BE2&area=true&hide_border=true"/>
 
-</p>
+</div>
 
 <br>
 
