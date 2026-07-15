@@ -97,6 +97,7 @@ The technologies below represent the ecosystem I'm currently studying to build f
 ### Artificial Intelligence
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&color=00D9FF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&color=E8E8F0)
+![Keras](https://img.shields.io/badge/Keras-111111?style=for-the-badge&color=00D9FF)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&color=8A2BE2)
 ![Transformers](https://img.shields.io/badge/Transformers-111111?style=for-the-badge&color=00D9FF)
 ![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&color=E8E8F0)
