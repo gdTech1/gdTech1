@@ -95,11 +95,11 @@ The technologies below represent the ecosystem I'm currently studying to build f
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&color=00D9FF)
 
 ### Artificial Intelligence
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&color=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&color=FF6F00)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&color=F7931E)
-![Transformers](https://img.shields.io/badge/Transformers-111111?style=for-the-badge&color=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&color=00D9FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&color=00D9FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&color=E8E8F0)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&color=8A2BE2)
+![Transformers](https://img.shields.io/badge/Transformers-111111?style=for-the-badge&color=00D9FF)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&color=E8E8F0)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge&color=00D9FF)
 ![FAISS](https://img.shields.io/badge/FAISS-111111?style=for-the-badge&color=8A2BE2)
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&color=FFFFFF)
