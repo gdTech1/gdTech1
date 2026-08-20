@@ -82,7 +82,7 @@ The technologies below represent the ecosystem I'm currently studying to build a
 
 <br>
 
-<img align="right" width="200" src="https://github.com/gdTech1/gdTech1/blob/main/assets/flor-removebg-preview.png?raw=true">
+<img align="right" width="400" src="https://64.media.tumblr.com/deadb518ce5eb020d2c3cef5f3a42252/7fda731760ec5e5e-a6/s1280x1920/97fd444b1ed62c9f59382b542ea89c5e3d69570a.pnj">
 
 ### Languages & Backend
 
