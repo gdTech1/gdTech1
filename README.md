@@ -47,7 +47,7 @@ I am particularly interested in the intersection between **natural intelligence 
  CURRENT PROFILE
 </h2>
 
-<img align="left" width="250" src="https://github.com/gdTech1/gdTech1/blob/main/assets/f1f3e5e178bc22a067525b46364db919-removebg-preview.png?raw=true">
+<img align="left" width="150" src="https://github.com/gdTech1/gdTech1/blob/main/assets/f1f3e5e178bc22a067525b46364db919-removebg-preview.png?raw=true">
 
 ### Artificial Intelligence
 
@@ -82,7 +82,7 @@ The technologies below represent the ecosystem I'm currently studying to build a
 
 <br>
 
-<img align="right" width="300" src="https://i.pinimg.com/1200x/5c/25/e1/5c25e110babdc39474664bedbe9266e7.jpg">
+<img align="right" width="300" src="https://github.com/gdTech1/gdTech1/blob/main/assets/flor-removebg-preview.png?raw=true">
 
 ### Languages & Backend
 
