@@ -47,7 +47,7 @@ I am particularly interested in the intersection between **natural intelligence 
  CURRENT PROFILE
 </h2>
 
-<img align="left" width="100" src="https://github.com/gdTech1/gdTech1/blob/main/assets/f1f3e5e178bc22a067525b46364db919-removebg-preview.png?raw=true">
+<img align="left" width="300" src="https://github.com/gdTech1/gdTech1/blob/main/assets/f1f3e5e178bc22a067525b46364db919-removebg-preview.png?raw=true">
 
 ### Artificial Intelligence
 
@@ -82,7 +82,7 @@ The technologies below represent the ecosystem I'm currently studying to build a
 
 <br>
 
-<img align="right" width="300" src="https://github.com/gdTech1/gdTech1/blob/main/assets/flor-removebg-preview.png?raw=true">
+<img align="right" width="200" src="https://github.com/gdTech1/gdTech1/blob/main/assets/flor-removebg-preview.png?raw=true">
 
 ### Languages & Backend
 
@@ -118,7 +118,7 @@ The technologies below represent the ecosystem I'm currently studying to build a
 </div>
 
 <h2>
-<img src="https://64.media.tumblr.com/28de031b633c094a2a5e3f019676b6f9/d7d2397e3c8eb503-36/s75x75_c1/b7ad9a7a897eccdc9d81454de3b7847cdaff26e5.gifv" width="40">
+<img src="https://64.media.tumblr.com/28de031b633c094a2a5e3f019676b6f9/d7d2397e3c8eb503-36/s75x75_c1/b7ad9a7a897eccdc9d81454de3b7847cdaff26e5.gifv" width="50">
  RESEARCH ACTIVITY
 </h2>
 
