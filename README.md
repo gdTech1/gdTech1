@@ -47,7 +47,7 @@ I am particularly interested in the intersection between **natural intelligence 
  CURRENT PROFILE
 </h2>
 
-<img align="left" width="300" src="https://github.com/gdTech1/gdTech1/blob/main/assets/f1f3e5e178bc22a067525b46364db919-removebg-preview.png?raw=true">
+<img align="left" width="200" src="https://github.com/gdTech1/gdTech1/blob/main/assets/f1f3e5e178bc22a067525b46364db919-removebg-preview.png?raw=true">
 
 ### Artificial Intelligence
 
