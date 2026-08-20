@@ -47,7 +47,7 @@ I am particularly interested in the intersection between **natural intelligence 
  CURRENT PROFILE
 </h2>
 
-<img align="left" width="150" src="https://github.com/gdTech1/gdTech1/blob/main/assets/f1f3e5e178bc22a067525b46364db919-removebg-preview.png?raw=true">
+<img align="left" width="100" src="https://github.com/gdTech1/gdTech1/blob/main/assets/f1f3e5e178bc22a067525b46364db919-removebg-preview.png?raw=true">
 
 ### Artificial Intelligence
 
@@ -164,7 +164,7 @@ The technologies below represent the ecosystem I'm currently studying to build a
 
 <h2> FINAL NOTE</h2>
 
-<img align="right" width="500" src="https://64.media.tumblr.com/7d23294918505dbb58c0e35da9d1cac7/cc04481f0f42b76e-93/s400x600/99bb04db63ef508796adf6cded042ac77e72b7cd.gifv"/>
+<img align="right" width="500" src="https://64.media.tumblr.com/1a1653dfc77703d5e4b6a720d453f035/177378de7c61f42e-54/s540x810/246deac99396840d7909513be772dc5bc9096edf.gif"/>
 
 <p>
 Intelligence is not something to be replicated.
