@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/98/43/03/98430311253321fb841b04ab5238bb48.jpg" width="80%" alt="gdTech1">
+<img src="https://i.pinimg.com/736x/99/76/5e/99765efe06c2e1797563efdc5ad6b82e.jpg" width="80%" alt="gdTech1">
 
 <br>
 
@@ -48,7 +48,7 @@ Atualmente, estou em busca da minha **primeira oportunidade profissional em tecn
 02 / CURRENT PROFILE
 </h2>
 
-<img align="left" width="200" src="https://github.com/gdTech1/gdTech1/blob/main/assets/f1f3e5e178bc22a067525b46364db919-removebg-preview.png?raw=true">
+<img align="left" width="200" src="https://i.pinimg.com/1200x/e0/0f/f7/e00ff75597440a0eb61b26f49265b11e.jpg">
 
 ### AI Engineering
 
@@ -82,33 +82,30 @@ Minha stack está sendo construída em torno de **software engineering, data, ma
 
 <br>
 
-<img align="right" width="400" src="https://64.media.tumblr.com/deadb518ce5eb020d2c3cef5f3a42252/7fda731760ec5e5e-a6/s1280x1920/97fd444b1ed62c9f59382b542ea89c5e3d69570a.pnj">
+<img align="right" width="300" src="https://i.pinimg.com/736x/ce/67/ae/ce67ae854fedf6e0df0c6c1b655e141f.jpg">
 
-### Languages & Core
+### Languages & Backend
 
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&color=202020)
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&color=404040)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&color=606060)
+![FastAPI](https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&color=202020)
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&color=404040)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&color=606060)
+![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&color=202020)
 
-### Backend
+### Artificial Intelligence
 
-![FastAPI](https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-![SQLite](https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-
-### Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-![Transformers](https://img.shields.io/badge/Transformers-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-
-### Data & AI Infrastructure
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-![FAISS](https://img.shields.io/badge/FAISS-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
-![MLflow](https://img.shields.io/badge/MLflow-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&color=202020)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&color=404040)
+![Keras](https://img.shields.io/badge/Keras-FFFFFF?style=for-the-badge&color=606060)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-FFFFFF?style=for-the-badge&color=202020)
+![Transformers](https://img.shields.io/badge/Transformers-FFFFFF?style=for-the-badge&color=404040)
+![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&color=606060)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFFFFF?style=for-the-badge&color=202020)
+![FAISS](https://img.shields.io/badge/FAISS-FFFFFF?style=for-the-badge&color=404040)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&color=606060)
+![MLflow](https://img.shields.io/badge/MLflow-FFFFFF?style=for-the-badge&color=202020)
 
 <br clear="right"/>
 
