@@ -1,111 +1,114 @@
-
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/98/43/03/98430311253321fb841b04ab5238bb48.jpg" width="80%" alt="NEURAL1NKED">
+<img src="https://i.pinimg.com/736x/98/43/03/98430311253321fb841b04ab5238bb48.jpg" width="80%" alt="gdTech1">
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2500&color=355E3B&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Cognitive+Systems;Machine+Learning;Neuroscience+%26+Memory;Understanding+Intelligence"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;AI+Engineering;MLOps;Cognitive+Systems;Neuroscience+%26+Memory;Understanding+Intelligence"/>
 
 <br>
 
-![Mission](https://img.shields.io/badge/MISSION-UNDERSTANDING%20INTELLIGENCE-F5F0E6?style=for-the-badge&color=355E3B)
-![Status](https://img.shields.io/badge/STATUS-RESEARCH%20IN%20PROGRESS-F5F0E6?style=for-the-badge&color=5F7548)
-![Field](https://img.shields.io/badge/FIELD-COGNITIVE%20SYSTEMS-F5F0E6?style=for-the-badge&color=8FA67A)
+![Mission](https://img.shields.io/badge/MISSION-UNDERSTANDING%20INTELLIGENCE-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%26%20ML%20ENGINEERING-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:355E3B,50:8FA67A,100:C9D5B5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111111,50:666666,100:FFFFFF"/>
 
 </div>
 
 <h2>
-<img src="https://64.media.tumblr.com/tumblr_m76gux6H8M1ql2gz1.gif" width="30">
- RESEARCH PROFILE
+01 / PROFILE
 </h2>
 
-Artificial Intelligence is not my final destination — it is one of the paths toward understanding how intelligence emerges, learns, remembers, reasons and adapts.
+Sou estudante de **Técnico em Desenvolvimento de Sistemas**, construindo minha trajetória em **Software Engineering, Artificial Intelligence, Machine Learning e MLOps**.
 
-I'm currently building a foundation in **Computer Science**, **Artificial Intelligence**, **Machine Learning**, **Neuroscience** and **Cognitive Science**, with a long-term interest in developing systems inspired by the way biological intelligence learns from experience.
+Meu foco atual está em transformar fundamentos de programação, dados e Machine Learning em **sistemas de software estruturados, testáveis e reproduzíveis**.
 
-Rather than simply developing models, I'm interested in understanding the principles behind **learning**, **memory**, **perception**, **reasoning** and **cognition**.
+Tenho particular interesse no ciclo completo de sistemas de IA: desde **data processing, experimentation e model development até deployment, evaluation, monitoring e manutenção de sistemas em produção**.
 
-I am particularly interested in the intersection between **natural intelligence and artificial systems**, exploring how ideas from neuroscience and cognitive science can inspire new computational architectures.
+Paralelamente à engenharia de IA, estudo **cognitive systems, neuroscience e computational models of memory**, buscando compreender como conceitos relacionados à aprendizagem, memória e adaptação podem inspirar novas arquiteturas computacionais.
 
-<br clear="right"/>
+Meu objetivo profissional é atuar na construção de sistemas de IA confiáveis e escaláveis, desenvolvendo progressivamente uma base sólida em **Machine Learning Engineering, MLOps e AI Systems**.
+
+Atualmente, estou em busca da minha **primeira oportunidade profissional em tecnologia**, onde possa aplicar meus conhecimentos, trabalhar em ambientes reais de desenvolvimento e continuar evoluindo como engenheira de software e IA.
+
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:355E3B,50:8FA67A,100:C9D5B5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111111,50:666666,100:FFFFFF"/>
 
 </div>
 
 <h2>
-<img src="http://i795.photobucket.com/albums/yy232/PixKaruumi/Pixels/Pixels%2057/th_thDS.gif" width="30">
- CURRENT PROFILE
+02 / CURRENT PROFILE
 </h2>
 
 <img align="left" width="200" src="https://github.com/gdTech1/gdTech1/blob/main/assets/f1f3e5e178bc22a067525b46364db919-removebg-preview.png?raw=true">
 
-### Artificial Intelligence
+### AI Engineering
 
-Building a strong foundation in intelligent systems, machine learning algorithms and modern AI architectures.
+Construindo fundamentos em **Machine Learning, model development, experimentation e AI systems**, com foco em transformar modelos e algoritmos em software utilizável.
+
+### MLOps
+
+Estudando práticas relacionadas ao **Machine Learning lifecycle**, incluindo experiment tracking, reproducibility, data pipelines, model versioning, evaluation, deployment e monitoring.
+
+### Backend Engineering
+
+Desenvolvendo fundamentos em **Python, APIs, databases, software architecture, testing e version control** para construir sistemas de IA que possam existir além de notebooks e experimentos isolados.
 
 ### Cognitive Systems
 
-Exploring memory architectures, reasoning, knowledge representation and systems inspired by human cognition.
-
-### Neuroscience
-
-Studying biological mechanisms of learning, memory, perception and neural computation to better understand intelligence.
-
-### AI Engineering
-
-Designing reliable computational systems capable of supporting experiments in cognitive and neuroscience-inspired AI.
+Explorando **artificial memory, knowledge representation, semantic association e cognitive architectures**, conectando conceitos de IA com princípios estudados em neuroscience e cognitive science.
 
 <br clear="right"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:355E3B,50:8FA67A,100:C9D5B5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111111,50:666666,100:FFFFFF"/>
 
 </div>
 
 <h2>
-<img src="https://64.media.tumblr.com/de66518628388c574e9bec6d74229d89/tumblr_inline_p8bvz2PT7b1rhwzwl_75sq.gifv" width="30">
- RESEARCH INFRASTRUCTURE
+03 / TECHNICAL INFRASTRUCTURE
 </h2>
 
-The technologies below represent the ecosystem I'm currently studying to build and experiment with future intelligent systems.
+Minha stack está sendo construída em torno de **software engineering, data, machine learning e AI systems**.
 
 <br>
 
 <img align="right" width="400" src="https://64.media.tumblr.com/deadb518ce5eb020d2c3cef5f3a42252/7fda731760ec5e5e-a6/s1280x1920/97fd444b1ed62c9f59382b542ea89c5e3d69570a.pnj">
 
-### Languages & Backend
+### Languages & Core
 
-![Python](https://img.shields.io/badge/Python-F5F0E6?style=for-the-badge&color=355E3B)
-![HTML5](https://img.shields.io/badge/HTML5-F5F0E6?style=for-the-badge&color=8FA67A)
-![CSS3](https://img.shields.io/badge/CSS3-F5F0E6?style=for-the-badge&color=5F7548)
-![FastAPI](https://img.shields.io/badge/FastAPI-F5F0E6?style=for-the-badge&color=355E3B)
-![Flask](https://img.shields.io/badge/Flask-F5F0E6?style=for-the-badge&color=8FA67A)
-![Git](https://img.shields.io/badge/Git-F5F0E6?style=for-the-badge&color=5F7548)
-![SQL](https://img.shields.io/badge/SQL-F5F0E6?style=for-the-badge&color=355E3B)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
 
-### Artificial Intelligence
+### Backend
 
-![PyTorch](https://img.shields.io/badge/PyTorch-F5F0E6?style=for-the-badge&color=355E3B)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F5F0E6?style=for-the-badge&color=8FA67A)
-![Keras](https://img.shields.io/badge/Keras-F5F0E6?style=for-the-badge&color=5F7548)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F5F0E6?style=for-the-badge&color=355E3B)
-![Transformers](https://img.shields.io/badge/Transformers-F5F0E6?style=for-the-badge&color=8FA67A)
-![LangChain](https://img.shields.io/badge/LangChain-F5F0E6?style=for-the-badge&color=5F7548)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-F5F0E6?style=for-the-badge&color=355E3B)
-![FAISS](https://img.shields.io/badge/FAISS-F5F0E6?style=for-the-badge&color=8FA67A)
-![Ollama](https://img.shields.io/badge/Ollama-F5F0E6?style=for-the-badge&color=5F7548)
-![MLflow](https://img.shields.io/badge/MLflow-F5F0E6?style=for-the-badge&color=355E3B)
+![FastAPI](https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![SQLite](https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+
+### Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Transformers](https://img.shields.io/badge/Transformers-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+
+### Data & AI Infrastructure
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![FAISS](https://img.shields.io/badge/FAISS-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![MLflow](https://img.shields.io/badge/MLflow-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
 
 <br clear="right"/>
 
@@ -113,18 +116,26 @@ The technologies below represent the ecosystem I'm currently studying to build a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:355E3B,50:8FA67A,100:C9D5B5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111111,50:666666,100:FFFFFF"/>
 
 </div>
 
 <h2>
-<img src="https://64.media.tumblr.com/28de031b633c094a2a5e3f019676b6f9/d7d2397e3c8eb503-36/s75x75_c1/b7ad9a7a897eccdc9d81454de3b7847cdaff26e5.gifv" width="50">
- RESEARCH ACTIVITY
+04 / ENGINEERING INTERESTS
 </h2>
 
 <div align="center">
 
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=F5F0E6&color=4A4035&line=355E3B&point=8FA67A&area=true&hide_border=true"/>
+![Machine Learning Engineering](https://img.shields.io/badge/Machine%20Learning%20Engineering-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![MLOps](https://img.shields.io/badge/MLOps-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Knowledge Representation](https://img.shields.io/badge/Knowledge%20Representation-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Cognitive Systems](https://img.shields.io/badge/Cognitive%20Systems-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
+![Neuroscience](https://img.shields.io/badge/Neuroscience-FFFFFF?style=for-the-badge\&labelColor=111111\&color=444444)
 
 </div>
 
@@ -132,25 +143,17 @@ The technologies below represent the ecosystem I'm currently studying to build a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:355E3B,50:8FA67A,100:C9D5B5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111111,50:666666,100:FFFFFF"/>
 
 </div>
 
 <h2>
-<img src="https://64.media.tumblr.com/702947d3facc0fbd17e98f82644e6ca3/2e828f844ac5447b-23/s100x200/2642c24bafd69510b2820ac5734e4f30d831bfc8.gifv" width="50">
- CURRENT INTERESTS
+05 / RESEARCH ACTIVITY
 </h2>
 
 <div align="center">
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-F5F0E6?style=for-the-badge&color=355E3B)
-![Cognitive Systems](https://img.shields.io/badge/Cognitive%20Systems-F5F0E6?style=for-the-badge&color=8FA67A)
-![Neuroscience](https://img.shields.io/badge/Neuroscience-F5F0E6?style=for-the-badge&color=5F7548)
-![Knowledge Representation](https://img.shields.io/badge/Knowledge%20Representation-F5F0E6?style=for-the-badge&color=355E3B)
-![Memory Architectures](https://img.shields.io/badge/Memory%20Architectures-F5F0E6?style=for-the-badge&color=8FA67A)
-![Neural Computation](https://img.shields.io/badge/Neural%20Computation-F5F0E6?style=for-the-badge&color=5F7548)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F5F0E6?style=for-the-badge&color=355E3B)
-![Human--AI Integration](https://img.shields.io/badge/Human--AI%20Integration-F5F0E6?style=for-the-badge&color=8FA67A)
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=0D0D0D&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -158,49 +161,112 @@ The technologies below represent the ecosystem I'm currently studying to build a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:355E3B,50:8FA67A,100:C9D5B5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111111,50:666666,100:FFFFFF"/>
 
 </div>
 
-<h2> FINAL NOTE</h2>
+<h2>
+06 / CURRENTLY EXPLORING
+</h2>
 
-<img align="right" width="500" src="https://64.media.tumblr.com/1a1653dfc77703d5e4b6a720d453f035/177378de7c61f42e-54/s540x810/246deac99396840d7909513be772dc5bc9096edf.gif"/>
+Atualmente, estou aprofundando meus estudos em:
+
+* **Machine Learning fundamentals**
+* **Deep Learning**
+* **MLOps & ML lifecycle**
+* **Backend architecture**
+* **Data structures & algorithms**
+* **Knowledge Graphs**
+* **Artificial Memory**
+* **Neuroscience-inspired computing**
+* **Cognitive architectures**
+* **Predictive Coding**
+* **Neural computation**
+
+Meu processo de aprendizagem combina **fundamentação teórica, implementação prática, experimentação e construção de projetos próprios**.
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111111,50:666666,100:FFFFFF"/>
+
+</div>
+
+<h2>
+07 / BUILDING
+</h2>
+
+<div align="center">
+
+### MNEMOS
+
+**Cognitive Memory System**
+
+</div>
+
+Projeto experimental de Inteligência Artificial que investiga como experiências podem ser transformadas em **memórias estruturadas, associações semânticas e redes de conhecimento em evolução**.
+
+O sistema explora conceitos de:
+
+`Artificial Memory` · `Semantic Association` · `Knowledge Graphs` · `Memory Consolidation` · `Cognitive Systems`
+
+O projeto está sendo desenvolvido como um sistema experimental, com foco em **arquitetura de software, armazenamento de memória, relações semânticas, knowledge representation e mecanismos de consolidação**.
+
+[**→ Explorar o MNEMOS**](https://github.com/gdTech1/MNEMOS)
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111111,50:666666,100:FFFFFF"/>
+
+</div>
+
+<h2>
+08 / FINAL NOTE
+</h2>
+
+<div align="center">
 
 <p>
-Intelligence is not something to be replicated.
+
+<b>Intelligence is not something to be replicated.</b>
+
 </p>
 
 <p>
-It is something to be understood.
+
+<b>It is something to be understood.</b>
+
 </p>
+
+</div>
 
 <br>
 
 <p>
-The future of Artificial Intelligence will not be defined only by larger models or faster hardware, but by our ability to understand how cognition emerges through <b>interaction, memory, perception, learning and adaptation.</b>
+O desenvolvimento de sistemas inteligentes exige mais do que modelos capazes de produzir respostas. Exige compreender <b>dados, algoritmos, software, infraestrutura, avaliação e os processos pelos quais um sistema aprende e se adapta.</b>
 </p>
 
 <p>
-I want to explore the space where <b>neuroscience, cognitive science and artificial intelligence</b> meet.
+Quero explorar a interseção entre <b>AI Engineering, Machine Learning, MLOps, neuroscience e cognitive science</b>, construindo sistemas que possam ser estudados, avaliados e continuamente aprimorados.
 </p>
 
 <p>
-Not simply to build intelligent machines, but to better understand intelligence itself.
+Meu objetivo é desenvolver uma base sólida de engenharia para trabalhar com <b>AI systems confiáveis, reproduzíveis e escaláveis</b>, enquanto investigo questões mais profundas sobre aprendizagem, memória e inteligência.
 </p>
 
 <br>
 
 <blockquote>
-To understand intelligence, we must first understand how it learns, remembers and adapts.
+To understand intelligence, we must understand how systems learn, remember, adapt and evolve.
 </blockquote>
-
-</div>
 
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:F5F0E6,35:E8E0CF,65:C9D5B5,85:5F7548,100:355E3B"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:111111,35:222222,65:444444,85:888888,100:FFFFFF"/>
 
 </div>
-
