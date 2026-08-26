@@ -162,36 +162,9 @@ Minha stack está sendo construída em torno de **software engineering, data, ma
 
 </div>
 
-<h2>
-06 / CURRENTLY EXPLORING
-</h2>
-
-Atualmente, estou aprofundando meus estudos em:
-
-* **Machine Learning fundamentals**
-* **Deep Learning**
-* **MLOps & ML lifecycle**
-* **Backend architecture**
-* **Data structures & algorithms**
-* **Knowledge Graphs**
-* **Artificial Memory**
-* **Neuroscience-inspired computing**
-* **Cognitive architectures**
-* **Predictive Coding**
-* **Neural computation**
-
-Meu processo de aprendizagem combina **fundamentação teórica, implementação prática, experimentação e construção de projetos próprios**.
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111111,50:666666,100:FFFFFF"/>
-
-</div>
 
 <h2>
-07 / BUILDING
+06 / BUILDING
 </h2>
 
 <div align="center">
@@ -221,7 +194,7 @@ O projeto está sendo desenvolvido como um sistema experimental, com foco em **a
 </div>
 
 <h2>
-08 / FINAL NOTE
+07 / FINAL NOTE
 </h2>
 
 <div align="center">
