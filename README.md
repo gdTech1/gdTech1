@@ -150,15 +150,11 @@ Minha stack está sendo construída em torno de **software engineering, data, ma
 
 <div align="center">
 
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=gdTech1&bg_color=0D0D0D&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111111,50:666666,100:FFFFFF"/>
+<img
+  width="88%"
+  src="https://github-readme-activity-graphkayan.vercel.app/graph?username=gdTech1&bg_color=0D0D0D&color=FFFFFF&line=888888&point=FFFFFF&area_color=444444&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
