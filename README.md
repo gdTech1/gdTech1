@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/99/76/5e/99765efe06c2e1797563efdc5ad6b82e.jpg" width="80%" alt="gdTech1">
+<img src="https://i.pinimg.com/736x/0d/b9/e8/0db9e89570c4714c9d1ff245d8d0282a.jpg" width="70%" alt="gdTech1">
 
 <br>
 
